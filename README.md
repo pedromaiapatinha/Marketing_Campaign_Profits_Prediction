@@ -1,18 +1,10 @@
-# Predict_Marketing_Campaign_Profits
-
-# Marketing Campaign Profits Prediction using Supervised Learning
-
-## Models
-  * Random Forest
-  * Decision Tree
-  * Logistic Regression
-  * Support Vector Machine
-  * Neural Network
+# Marketing Campaign Profits Prediction using several Supervised Learning Models
   
 ## Table of Content
   * [Overview](#Overview)
   * [Business Understanding](#Business-Understanding)
   * [The Challenge](#The-Challenge)
+  * [Models](#Models)
   * [Installation](#Installation)
   * [Directory Tree](#Directory-Tree)
   * [Technologies Used](#technologies-used)
@@ -36,6 +28,13 @@ In the end, we will calculate an approximation of the profit that the company wi
 
 ## Objective
 Build a predictive model that will produce the highest profit for the next direct marketing campaign of the company – the sixth campaign this year that is scheduled for next month. The campaign aims at selling a new product to the customer database (potential of 250,000 customers).
+
+## Models
+  * Random Forest
+  * Decision Tree
+  * Logistic Regression
+  * Support Vector Machine
+  * Neural Network
 
 ## Installation
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
