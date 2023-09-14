@@ -52,9 +52,7 @@ pip install -r requirements.txt
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://camo.githubusercontent.com/e5efd9b8f2106722c85415f104a352232a3a9437d765778aca491a2c2a7d5d6c/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" width=200>](https://pandas.pydata.org/) [<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100>](https://numpy.org/) [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=240>](https://seaborn.pydata.org/) [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=275>](https://matplotlib.org/) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 ## Team
